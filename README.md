@@ -1,4 +1,6 @@
-# funniman.exe's website
+# funniman.exe
 
-This is the github pages repo for my website, and all sub domains to this website.
-Pull requests will NOT be accepted, unless they include suggestions ONLY.
+Hello! I am le funniman!
+
+I am a (self proclaimed) software dev and digital artist.
+I do cool things I guess...
