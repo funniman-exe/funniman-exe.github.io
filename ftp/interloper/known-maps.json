@@ -1,173 +1,45 @@
 {
   "count": 42,
-  "maps": [
-    {
-      "name": "kulcs",
-      "file": "maps/kulcs.bsp"
-    },
-    {
-      "name": "2fort",
-      "file": "maps/2fort.bsp"
-    },
-    {
-      "name": "ask",
-      "file": "maps/ask.bsp"
-    },
-    {
-      "name": "noaccess",
-      "file": "maps/noaccess.bsp"
-    },
-    {
-      "name": "hi",
-      "file": "maps/hi.bsp"
-    },
-    {
-      "name": "souer",
-      "file": "maps/souer.bsp"
-    },
-    {
-      "name": "plotmas",
-      "file": "maps/plotmas.bsp"
-    },
-    {
-      "name": "funniman",
-      "file": "maps/funniman.bsp"
-    },
-    {
-      "name": "belod",
-      "file": "maps/belod.bsp"
-    },
-    {
-      "name": "quiz",
-      "file": "maps/quiz.bsp"
-    },
-    {
-      "name": "speckle",
-      "file": "maps/speckle.bsp"
-    },
-	    {
-      "name": "speckle_r",
-      "file": "maps/speckle.bsp"
-    },
-    {
-      "name": "stal",
-      "file": "maps/stal.bsp"
-    },
-    {
-      "name": "stork",
-      "file": "maps/stork.bsp"
-    },
-	{
-      "name": "stork_s",
-      "file": "maps/stork.bsp"
-    },
-    {
-      "name": "the",
-      "file": "maps/the.bsp"
-    },
-    {
-      "name": "veritas",
-      "file": "maps/veritas.bsp"
-    },
-	{
-      "name": "veritas_a",
-      "file": "maps/veritas.bsp"
-    },
-    {
-      "name": "dill",
-      "file": "maps/dill.bsp"
-    },
-    {
-      "name": "blemor_e",
-      "file": "maps/blemor_e.bsp"
-    },
-    {
-      "name": "toaleken21",
-      "file": "maps/toaleken21.bsp"
-    },
-    {
-      "name": "kurt",
-      "file": "maps/kurt.bsp"
-    },
-    {
-      "name": "dr_house",
-      "file": "maps/dr_house.bsp"
-    },
-    {
-      "name": "verlomisquoli",
-      "file": "maps/verlomisquoli.bsp"
-    },
-    {
-      "name": "crishy_is",
-      "file": "maps/crishy_is.bsp"
-    },
-    {
-      "name": "subroutine_hello",
-      "file": "maps/subroutine_hello.bsp"
-    },
-    {
-      "name": "diediedie",
-      "file": "maps/diediedie.bsp"
-    },
-    {
-      "name": "mazemazemazemaze",
-      "file": "maps/mazemazemazemaze.bsp"
-    },
-    {
-      "name": "view",
-      "file": "maps/view.bsp"
-    },
-    {
-      "name": "coneconeconecone",
-      "file": "maps/coneconeconecone.bsp"
-    },
-    {
-      "name": "pleasekill",
-      "file": "maps/pleasekill.bsp"
-    },
-    {
-      "name": "askask",
-      "file": "maps/askask.bsp"
-    },
-    {
-      "name": "ordinance",
-      "file": "maps/ordinance.bsp"
-    },
-    {
-      "name": "ord_ren",
-      "file": "maps/ord_ren.bsp"
-    },
-    {
-      "name": "ord_xufunc",
-      "file": "maps/ord_xufunc.bsp"
-    },
-    {
-      "name": "ord_ydfunc",
-      "file": "maps/ord_ydfunc.bsp"
-    },
-    {
-      "name": "ord_xdfunc",
-      "file": "maps/ord_xdfunc.bsp"
-    },
-    {
-      "name": "ord_yufunc",
-      "file": "maps/ord_yufunc.bsp"
-    },
-    {
-      "name": "ord_zdfunc",
-      "file": "maps/ord_zdfunc.bsp"
-    },
-    {
-      "name": "ord_afunc",
-      "file": "maps/ord_afunc.bsp"
-    },
-    {
-      "name": "ord_bfunc",
-      "file": "maps/ord_bfunc.bsp"
-    },
-    {
-      "name": "ord_cfunc",
-      "file": "maps/ord_cfunc.bsp"
-    }
-  ]
+  "asset_1": "maps/kulcs.bsp"
+  "asset_2": "maps/2fort.bsp"
+  "asset_3": "maps/ask.bsp"
+  "asset_4": "maps/noaccess.bsp"
+  "asset_5": "maps/hi.bsp"
+  "asset_6": "maps/souer.bsp"
+  "asset_7": "maps/plotmas.bsp"
+  "asset_8": "maps/funniman.bsp"
+  "asset_9": "maps/belod.bsp"
+  "asset_10": "maps/quiz.bsp"
+  "asset_11": "maps/speckle.bsp"
+  "asset_12": "maps/speckle.bsp"
+  "asset_13": "maps/stal.bsp"
+  "asset_14": "maps/stork.bsp"
+  "asset_15": "maps/stork.bsp"
+  "asset_16": "maps/the.bsp"
+  "asset_17": "maps/veritas.bsp"
+  "asset_18": "maps/veritas.bsp"
+  "asset_19": "maps/dill.bsp"
+  "asset_20": "maps/blemor_e.bsp"
+  "asset_21": "maps/toaleken21.bsp"
+  "asset_22": "maps/kurt.bsp"
+  "asset_23": "maps/dr_house.bsp"
+  "asset_24": "maps/verlomisquoli.bsp"
+  "asset_25": "maps/crishy_is.bsp"
+  "asset_26": "maps/subroutine_hello.bsp"
+  "asset_27": "maps/diediedie.bsp"
+  "asset_28": "maps/mazemazemazemaze.bsp"
+  "asset_29": "maps/view.bsp"
+  "asset_30": "maps/coneconeconecone.bsp"
+  "asset_31": "maps/pleasekill.bsp"
+  "asset_32": "maps/askask.bsp"
+  "asset_33": "maps/ordinance.bsp"
+  "asset_34": "maps/ord_ren.bsp"
+  "asset_35": "maps/ord_xufunc.bsp"
+  "asset_36": "maps/ord_ydfunc.bsp"
+  "asset_37": "maps/ord_xdfunc.bsp"
+  "asset_38": "maps/ord_yufunc.bsp"
+  "asset_39": "maps/ord_zdfunc.bsp"
+  "asset_40": "maps/ord_afunc.bsp"
+  "asset_41": "maps/ord_bfunc.bsp"
+  "asset_42": "maps/ord_cfunc.bsp"
 }
