@@ -1,0 +1,21 @@
+{
+  "count": 4,
+  "assets": [
+    {
+      "name": "view (map)",
+      "file": "maps/view.bsp"
+    },
+    {
+      "name": "view (mat)",
+      "file": "materials/view.vmt"
+    },
+	{
+      "name": "view (tex)",
+      "file": "materials/view.vtf"
+    },
+	{
+      "name": "view (snd)",
+      "file": "sound/view.wav"
+    },
+  ]
+}
