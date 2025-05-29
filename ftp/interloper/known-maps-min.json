@@ -1,0 +1,21 @@
+{
+  "count": 18,
+  "asset_1": "maps/2fort.bsp",
+  "asset_2": "maps/ask.bsp",
+  "asset_3": "maps/noaccess.bsp",
+  "asset_4": "maps/quiz.bsp",
+  "asset_5": "maps/mazemazemazemaze.bsp",
+  "asset_6": "maps/view.bsp",
+  "asset_7": "maps/coneconeconecone.bsp",
+  "asset_8": "maps/askask.bsp",
+  "asset_9": "maps/ordinance.bsp",
+  "asset_10": "maps/ord_ren.bsp",
+  "asset_11": "maps/ord_xufunc.bsp",
+  "asset_12": "maps/ord_ydfunc.bsp",
+  "asset_13": "maps/ord_xdfunc.bsp",
+  "asset_14": "maps/ord_yufunc.bsp",
+  "asset_15": "maps/ord_zdfunc.bsp",
+  "asset_16": "maps/ord_afunc.bsp",
+  "asset_17": "maps/ord_bfunc.bsp",
+  "asset_18": "maps/ord_cfunc.bsp"
+}
