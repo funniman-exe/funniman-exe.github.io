@@ -5,15 +5,30 @@
 		<meta name="viewport" content="width=device-width, initial-scale=1">
 		<style>
 			@font-face { font-family: VgaFont; src: url('content/font/VGA_FONT.ttf'); }
+			
+			blink_cursor {
+				color: white;
+				animation-name: flash;
+				animation-duration: 2s;
+				animation-iteration-count: infinite;
+				animation-timing-function: step-start;
+			}
+			
+			@keyframes flash {
+				0% {color: white;}
+				50% {color: black;}
+				100% {color: white;}
+			}
 		</style>
 		<title>home of le funniman</title>
 	</head>
-	<body style="background-color:black; color:white; font-family: VgaFont;">
+	<body style="background-color: black; color: white; font-family: VgaFont;">
 		<center>
 			<img src="content/img/funniman_logo_square.png">
-			<h1>C:>the home of funniman.exe_</h1>
+			<h1>C:\the home of <span style="color: aqua;">funniman.exe</span><blink_cursor>_</blink_cursor>
+			</h1>
 			<ul>
-				<h2>Welcome to the home of <i>le funniman</i>!!!</h2>
+				<h2>Welcome to the home of <i><span style="color: aqua;">le funniman</span></i>!!!</h2>
 				This page is a <b>HUGE</b> work-in-progress, so don't expect much for now...<br>
 				To see some of my older projects, please visit <a href="https://funnimanexe.itch.io" target="_blank">my itch.io page</a>.<br>
 				To view my newer projects, please check out <a href="https://github.com/funniman-exe" target="_blank">my github page</a>.
