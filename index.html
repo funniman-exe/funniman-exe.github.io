@@ -3,36 +3,33 @@
 	<head>
 		<meta charset="utf-8">
 		<meta name="viewport" content="width=device-width, initial-scale=1">
-		<style>
-			@font-face { font-family: VgaFont; src: url('content/font/VGA_FONT.ttf'); }
-			
-			blink_cursor {
-				color: white;
-				animation-name: flash;
-				animation-duration: 2s;
-				animation-iteration-count: infinite;
-				animation-timing-function: step-start;
-			}
-			
-			@keyframes flash {
-				0% {color: white;}
-				50% {color: black;}
-				100% {color: white;}
-			}
-		</style>
-		<title>home of le funniman</title>
+
+		<title>the funniman network</title>
+		<link rel="stylesheet" href="/styles/default.css">
+
+		<script type="module" src="/styles/default.js" defer></script>
 	</head>
-	<body style="background-color: black; color: white; font-family: VgaFont;">
+	<body>
+		<div id="header-placeholder"></div>
+
 		<center>
-			<img src="content/img/funniman_logo_square.png">
-			<h1>C:\the home of <span style="color: aqua;">funniman.exe</span><blink_cursor>_</blink_cursor>
+			<div class="image-wrapper">
+				<img src="content/img/funniman_logo_square.png" class="responsive-img">
+			</div>
+			<h1>C:\the <span style="color: aqua;">funniman.exe</span> network<blink_cursor>_</blink_cursor>
 			</h1>
-			<ul>
-				<h2>Welcome to the home of <i><span style="color: aqua;">le funniman</span></i>!!!</h2>
-				This page is a <b>HUGE</b> work-in-progress, so don't expect much for now...<br>
+			<h2>Welcome to the home of <i><span style="color: aqua;">funniman.exe</span></i>!</h2>
+			<div style="width: 45%">
+				<h2><p>
+				This website connects everything funniman into one place.
+				From software, to artwork, to everything inbetween, this where it can all be found; the funniman.exe network.
+				</p></h2>
+				This site is a <b>HUGE</b> work-in-progress, so don't expect much for now...
 				To see some of my older projects, please visit <a href="https://funnimanexe.itch.io" target="_blank">my itch.io page</a>.<br>
 				To view my newer projects, please check out <a href="https://github.com/funniman-exe" target="_blank">my github page</a>.
-			</ul>
+			</div>
 		</center>
+
+		<div id="footer-placeholder"></div>
 	</body>
 </html>

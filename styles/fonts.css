@@ -1,0 +1,11 @@
+@font-face
+{
+	font-family: VgaFont;
+	src: url( '/content/font/VGA_FONT.ttf' );
+}
+
+@font-face
+{
+	font-family: VcrOsdMono;
+	src: url( '/content/font/VCR_OSD_MONO.ttf' )
+}

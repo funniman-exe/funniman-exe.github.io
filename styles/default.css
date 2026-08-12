@@ -1,0 +1,16 @@
+@import url( "/styles/fonts.css" );
+@import url( "/styles/classes.css" );
+
+body
+{
+	background-color: black;
+	color: white;
+	font-family: VgaFont;
+}
+
+header
+{
+	background-color: black;
+	color: white;
+	font-family: VcrOsdMono;
+}
