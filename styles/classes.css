@@ -1,5 +1,4 @@
-blink_cursor
-{
+blink_cursor {
 	color: white;
 	animation-name: flash;
 	animation-duration: 2s;
@@ -7,59 +6,58 @@ blink_cursor
 	animation-timing-function: step-start;
 }
 
-@keyframes flash
-{
-	0% { color: white; }
-	50% { color: black; }
-	100% { color: white; }
+@keyframes flash {
+	0% {
+		color: white;
+	}
+
+	50% {
+		color: black;
+	}
+
+	100% {
+		color: white;
+	}
 }
 
 
 
-.scroll-container
-{
+.scroll-container {
 	width: 100%;
 	overflow: hidden;
 	display: flex;
 }
 
-.scroll-text
-{
+.scroll-text {
 	display: flex;
 	white-space: nowrap;
 	animation: scrolltext 8s infinite linear;
 }
 
-.scroll-item
-{
+.scroll-item {
 	flex-shrink: 0;
 	white-space: pre
 }
 
-@keyframes scrolltext
-{
-	0%
-	{
-		transform: translatex( 0px );
+@keyframes scrolltext {
+	0% {
+		transform: translatex(0px);
 	}
 
-	100%
-	{
-		transform: translatex( var( --sentenceWidth ) );
+	100% {
+		transform: translatex(var(--sentenceWidth));
 	}
 }
 
 
 
-.image-wrapper
-{
+.image-wrapper {
 	width: 100%;
 	max-width: 600px;
 	margin: 0 auto;
 }
 
-.responsive-img
-{
+.responsive-img {
 	width: 100%;
 	height: auto;
 	display: block;

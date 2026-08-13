@@ -1,6 +1,3 @@
-# funniman.exe
+# The funniman network website
 
-Hello! I am le funniman!
-
-I am a (self proclaimed) software dev and digital artist.
-I do cool things I guess...
+This is the source code for the funniman network website

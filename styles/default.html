@@ -1,21 +1,31 @@
 <header>
-	<div class="scroll-container" id="marquee-container">
-		<div class="scroll-text" id="marquee-text">
+	<div class="scroll-container" style="display:flex;">
+		<div class="scroll-text" id="marquee-text-source">
 			<span class="scroll-item" id="marquee-item">The <span style="color: cyan;">funniman.exe</span> network | FUNI-TV | </span>
 		</div>
 	</div>
+	<div class="scroll-container" id="marquee-container">
+		<div class="scroll-text" id="marquee-text">
+			SCROLLING TEXT GOES HERE :3
+		</div>
+	</div>
 	<hr>
-	<nav>
-		Select Input: 
-		<a href="/">Index</a>
-		<a href="/about">About</a>
+	<nav style="display: flex; justify-content: space-between; padding-left: 0.5%; padding-right: 0.5%;">
+		<span>
+			Select Channel:
+			<a href="/about">About</a> |
+			<a href="/">Index</a> |
+			<!--<a href="/projects">Projects</a>-->
+		</span>
+		<span id="page-name-container">Current Channel: <span id="page-name-text"
+				style="color: yellow">NIL</span></span>
 	</nav>
 	<hr>
 </header>
 <footer>
 	<hr>
 	<center>
-		<p>This is the <span style="color: aqua;">funniman.exe</span> network<br>
-		(c) 2026 Funniman Productions. All Rights Reserved.</p>
+		<p>This is the <span style="color: aqua;">funniman.exe</span> network | FUNI-TV<br>
+			(c) <span id="curr-year">0000</span> Funniman Productions. All Rights Reserved.</p>
 	</center>
 </footer>
