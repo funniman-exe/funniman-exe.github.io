@@ -1,0 +1,7 @@
+ftp/portal2/841_1.zip filter=lfs diff=lfs merge=lfs -text
+ftp/portal2/841_1_split.zip filter=lfs diff=lfs merge=lfs -text
+ftp/portal2/841_1.z[0-9]* filter=lfs diff=lfs merge=lfs -text
+ftp/portal2/841_1_split.z01 filter=lfs diff=lfs merge=lfs -text
+ftp/portal2/841_1_split.z02 filter=lfs diff=lfs merge=lfs -text
+ftp/portal2/841_1_split.z03 filter=lfs diff=lfs merge=lfs -text
+ftp/portal2/841_1_split.z04 filter=lfs diff=lfs merge=lfs -text
