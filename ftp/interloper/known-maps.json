@@ -1,5 +1,5 @@
 {
-	"count": 45,
+	"count": 47,
 	"asset_1": "maps/2fort.bsp",
 	"asset_2": "maps/ask.bsp",
 	"asset_3": "maps/noaccess.bsp",
@@ -44,5 +44,7 @@
 	"asset_42": "maps/vul3sdg66.bsp",
 	"asset_43": "maps/vulhkghd.bsp",
 	"asset_44": "maps/ord_laugh.bsp",
-	"asset_45": "maps/ord_end.bsp"
+	"asset_45": "maps/ord_end.bsp",
+	"asset_46": "maps/ord_play.bsp",
+	"asset_47": "maps/c44gsho3fa58.bsp"
 }
